@@ -21,7 +21,7 @@ To start the Rasa server, use the following command:
    ```rasa run --port 5005 --cors "*"```
 
 #### Using Chatroom.html
-The following HTML code is a basic setup for a chatbot interface. Replace https://your-codespace-url-5005.preview.app.github.dev with the appropriate URL for your Codespace.
+The following HTML code is a basic setup for a chatbot interface. (https://hmetz1311.github.io/kic_chatroom.github.io/) 
 ```
 <!DOCTYPE html>
 <html lang="en">
